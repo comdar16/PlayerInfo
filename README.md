@@ -1,4 +1,4 @@
-# PlayerInfo
+# Title
 Update for the latest TShock version.
 
 
